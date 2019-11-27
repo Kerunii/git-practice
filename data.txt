@@ -2,3 +2,4 @@ Name: Paula
 Age: 27
 Favorite Color: Blue
 Hobbie: Be hater
+Favorite Food: Snails
